@@ -1,0 +1,5 @@
+*.pyc
+*.whl
+*.cpython-310.pyc
+Codec\models\__pycache__\
+Codec\models\modules\__pycache__\
